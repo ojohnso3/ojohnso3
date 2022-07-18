@@ -13,7 +13,8 @@ My name is **Olivia Johnson** (she/her/hers), and I'm a **Backend Software Engin
 👩‍💻 Python, Java, JavaScript, Go, C, HTML/CSS, Solidity
 
 ### Feel free to explore my work below!
-🔭 And please don't hestitate to reach out with any questions / feedback :)
+🔭 And please don't hestitate to reach out with any questions / feedback :) <br/><br/>
+**Note**: I cannot publicly share code for the majority of my univesity projects on my personal GitHub. 
 
 <!--
 **ojohnso3/ojohnso3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
