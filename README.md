@@ -4,7 +4,7 @@ My name is **Olivia Johnson** (she/her/hers), and I'm a **Backend Software Engin
 
 ### You may also know me as a ...
 💻 SWE Intern @ Squarespace <br/>
-📲 iOS App Developer for Aloe Stories <br/>
+📲 iOS Backend Developer for Aloe Stories <br/>
 ⚽ Club Soccer Captain <br/>
 🏔 Outdoor Backpacking Leader <br/>
 🥰 Lover of books, fruits (summer peaches!!), parks, & NYC bagels <br/>
