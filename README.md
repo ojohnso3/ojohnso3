@@ -1,6 +1,6 @@
 ## 💥 Hey there!
 
-My name is **Olivia Johnson** (she/her/hers), and I'm a **Backend Software Engineer** and computer science student at Brown University.
+I'm **Olivia Johnson** (she/her), and I'm a **Software Engineer** and computer science student at Brown University.
 
 ### You may also know me as a ...
 💻 SWE Intern @ Squarespace <br/>
@@ -9,8 +9,8 @@ My name is **Olivia Johnson** (she/her/hers), and I'm a **Backend Software Engin
 🏔 Outdoor Backpacking Leader <br/>
 🥰 Huge fan of books, fruits (summer peaches!!), parks, & NYC bagels <br/>
 
-### Programming Languages:
-👩‍💻 Python, Java, JavaScript, Go, C, HTML/CSS, Solidity
+**Programming Languages**: Python, Java, JavaScript, Go, C, HTML/CSS, Solidity <br/>
+**Technologies**: NodeJS, ReactJS, MongoDB, SQL, GitHub, Docker, Google Cloud, TensorFlow, PyTorch, Blockchain
 
 ### Feel free to explore my work below!
 🔭 And please don't hestitate to reach out with any questions / feedback :) <br/><br/>
