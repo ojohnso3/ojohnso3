@@ -12,8 +12,7 @@ I'm **Olivia Johnson** (she/her), and I'm a **Software Engineer** and computer s
 **Programming Languages**: Python, Java, JavaScript, Go, C, HTML/CSS, Solidity <br/>
 **Technologies**: NodeJS, ReactJS, MongoDB, SQL, GitHub, Docker, Google Cloud, TensorFlow, PyTorch, Blockchain
 
-### Feel free to explore my work below!
-🔭 And please don't hestitate to reach out with any questions / feedback :) <br/><br/>
+### Feel free to explore my work below and to reach out with any questions & feedback! <br/>
 **Note**: I cannot publicly share code for the majority of my univesity projects on my personal GitHub. 
 
 <!--
