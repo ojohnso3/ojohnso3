@@ -1,6 +1,6 @@
 ## 💥 Hey there!
 
-### I'm Olivia Johnson (she/her) — a Software Engineer and Computer Science student at Brown University.
+### I'm Olivia Johnson (she/her), a Software Engineer & Computer Science student at Brown University.
 
 ### You may also know me as a ...
 💻 SWE Intern @ Squarespace <br/>
