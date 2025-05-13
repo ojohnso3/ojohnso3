@@ -1,19 +1,20 @@
-## 💥 Hey there!
+## 👋 Hey! I'm Olivia, a software engineer and passionate women's sports fan
 
-### I'm Olivia Johnson (she/her), a Software Engineer & Computer Science student at Brown University.
+I’m a backend engineer focused on designing scalable systems and writing clean, reliable code. I thrive in collaborative environments, bringing empathetic leadership and a strong sense of ownership to every project. Outside of work, I’m a longtime follower of women’s soccer and a new WNBA fan. Excited about the future of tech in women's sports!
 
-### You may also know me as a ...
-💻 SWE Intern @ Squarespace <br/>
-📲 iOS Backend Developer for Aloe Stories <br/>
+Learn more about me below!
+
+### Currently: <br/>
+💻 Senior Backend Engineer @ Squarespace
+
+### Previously: <br/>
+🐻 Computer Science Major @ Brown University <br/>
+📱 iOS Backend Developer and Co-Founder of Aloe Stories <br/>
 ⚽ Club Soccer Captain <br/>
 🏔 Outdoor Backpacking Leader <br/>
-🥰 Huge fan of books, fruits (summer peaches!!), parks, & NYC bagels <br/>
 
-**Programming Languages**: Python, Java, JavaScript, Go, C, HTML/CSS, Solidity <br/>
-**Technologies**: NodeJS, ReactJS, MongoDB, SQL, GitHub, Docker, Google Cloud, TensorFlow, PyTorch, Blockchain
-
-### Feel free to explore my work below and reach out with any questions or feedback! <br/>
-**Note**: I cannot publicly share code for the majority of my univesity projects on my personal GitHub. 
+Languages: (proficient) `Java`, `Python`, `JavaScript` (familiar) `Go`, `C`, `HTML/CSS` <br/>
+Technologies: (proficient) `PostgreSQL`, `MongoDB`, `Node.js` (familiar) `React.js`, `Kafka`
 
 <!--
 **ojohnso3/ojohnso3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
